@@ -25,7 +25,7 @@ test.afterEach(async({page})=>{
 })
 
 
-test("verify the user login",async({page})=>{
+test("verify the user login @sanity",async({page})=>{
 
 
 await homepage.clickMyAccount()

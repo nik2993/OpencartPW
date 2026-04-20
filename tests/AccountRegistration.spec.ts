@@ -22,7 +22,7 @@ test.beforeEach(async({page})=>{
     await page.close()
      })
 
-test("verify the user registration",async({page})=>{
+test("verify the user registration @sanity",async({page})=>{
 
     
    await homepage.clickMyAccount()
