@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
 
-    "Sanity":"npx playwright test --grep @sanity --headed"
+    "Sanity":"npx playwright test --grep @sanity"
   },
   "keywords": [],
   "author": "",
